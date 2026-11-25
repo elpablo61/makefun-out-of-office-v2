@@ -1,0 +1,1 @@
+{"description":"make.fun entry: one-line out-of-office auto-reply from an overworked AI agent on vacation","license":"MIT","main":"main.ts","name":"makefun-out-of-office-v2","scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
